@@ -30,6 +30,9 @@ i) Limited collaboration
 ii) costs are abit high when one needs extra features not provided
 iii) Reduced exposure hence reducing the possibilities of being recognised for collaboration.
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
+The steps involved in making a first commit include Create a GitHub Account, Create a New Repository, Set Up Git Locally - set it locally by configuring the username and email, Clone the Repository to the local storage, Create a New File or Modify Existing Files, Stage Your Changes and then commit the changes.
+A commit in Git is a record of changes made to the files in your repository. The commits help to track changes that is history of changes, reviewing changes, blame and attribution to anyone who has done changes
+
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
